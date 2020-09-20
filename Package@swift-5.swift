@@ -6,7 +6,7 @@ let package = Package(
     name: "XMLMapper",
     platforms: [
         .watchOS(.v2),
-        .iOS(.v8),
+        .iOS(.v9),
         .macOS(.v10_10),
         .tvOS(.v9),
     ],
